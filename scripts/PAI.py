@@ -6,7 +6,7 @@ import tkinter as tk
 from tkinter import ttk
 import openpyxl as xl
 import sqlite3
-import timepipi
+import time
 from pytz import timezone
 from PIL import ImageTk,Image
 import re
